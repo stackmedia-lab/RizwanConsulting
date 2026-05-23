@@ -1,0 +1,6 @@
+{
+  "name": "Rizwan Consulting",
+  "description": "Rizwan Consulting - Premium Global Admissions Counseling, AI profile builder, essay reviewer and admissions prep hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
